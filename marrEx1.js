@@ -13,7 +13,7 @@ const arr = [
 ]
 
 // 가장 매출이 좋았던 분기
-// 각 분기별로 매출 평균을 \
+// 각 분기별로 매출 평균을
 // 만든다.
 // 그 중에서 최대 평균을 찾는다.
 
@@ -54,3 +54,4 @@ console.log("period: " + (period + 1) + "분기입니다.")
 const person = {name:"홍길동", phone:"111", age: 16}
 
 console.log(person.name)
+console.log(person.age)
