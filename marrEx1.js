@@ -49,3 +49,8 @@ console.log("period: " + (period + 1) + "분기입니다.")
 
 
 // 최고 매출 월
+
+// 객체 literal
+const person = {name:"홍길동", phone:"111", age: 16}
+
+console.log(person.name)
